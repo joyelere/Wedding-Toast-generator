@@ -11,10 +11,13 @@ A simple web-based Wedding Toast Generator that leverages OpenAI's GPT-3.5 Turbo
 
 ### Form
 <p align="center">
-  <img src="https://github.com/joyelere/Wedding-Toast_generator/blob/main/img/LoginPage.png?raw=true">
+  <img src="https://github.com/joyelere/Wedding-Toast-generator/blob/main/img/Screenshot%20(148).png?raw=true">
 </p>
 
 ### Generated Toast
+<p align="center">
+  <img src="https://github.com/joyelere/Wedding-Toast-generator/blob/main/img/Screenshot%20(149).png?raw=true">
+</p>
 
 
 ## Getting Started
