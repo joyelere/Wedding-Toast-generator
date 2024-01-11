@@ -28,7 +28,7 @@ A simple web-based Wedding Toast Generator that leverages OpenAI's GPT-3.5 Turbo
 2. **Set Up Your OpenAI API Key**:
    - Go to [OpenAI's platform](https://platform.openai.com/signup).
    - Sign up for an account and obtain your API key.
-   - Replace `YOUR_API_KEY` in the `public/script.js` file with your actual API key:
+   - Replace `YOUR_API_KEY` in the `app.js` file with your actual API key:
      
      ```bash
      const openai = new OpenAI({ apiKey: 'YOUR_API_KEY' });
