@@ -48,7 +48,7 @@ A simple web-based Wedding Toast Generator that leverages OpenAI's GPT-3.5 Turbo
 6. The generated toast will be displayed.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](#LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
