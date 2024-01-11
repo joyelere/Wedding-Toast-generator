@@ -13,7 +13,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
 // Create an instance of the OpenAIAPI class with your API key
-const openai = new OpenAI({ apiKey: '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' });
+const openai = new OpenAI({ apiKey: '' });
 
 // Serve static files from the 'public' directory
 app.use(express.static(path.join(__dirname, 'public')));
