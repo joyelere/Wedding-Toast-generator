@@ -35,7 +35,7 @@ A simple web-based Wedding Toast Generator that leverages OpenAI's GPT-3.5 Turbo
     ```bash
     node app.js
     
-Open your web browser and navigate to http://localhost:3000/
+   Open your web browser and navigate to http://localhost:3000/
 
 5. Enter the required details and click "Generate Toast."
 
