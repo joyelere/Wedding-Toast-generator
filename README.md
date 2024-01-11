@@ -7,19 +7,6 @@ A simple web-based Wedding Toast Generator that leverages OpenAI's GPT-3.5 Turbo
 - Generates a unique wedding toast using OpenAI's powerful GPT-3.5 Turbo model.
 - Responsive design for a seamless experience on various devices.
 
-## Screenshots
-
-### Form
-<p align="center">
-  <img src="https://github.com/joyelere/Wedding-Toast-generator/blob/main/img/Screenshot%20(148).png?raw=true">
-</p>
-
-### Generated Toast
-<p align="center">
-  <img src="https://github.com/joyelere/Wedding-Toast-generator/blob/main/img/Screenshot%20(149).png?raw=true">
-</p>
-
-
 ## Getting Started
 1. Clone the repository:
    ```bash
@@ -46,6 +33,18 @@ A simple web-based Wedding Toast Generator that leverages OpenAI's GPT-3.5 Turbo
 5. Enter the required details and click "Generate Toast."
 
 6. The generated toast will be displayed.
+
+## Screenshots
+
+### Form
+<p align="center">
+  <img src="https://github.com/joyelere/Wedding-Toast-generator/blob/main/img/Screenshot%20(148).png?raw=true">
+</p>
+
+### Generated Toast
+<p align="center">
+  <img src="https://github.com/joyelere/Wedding-Toast-generator/blob/main/img/Screenshot%20(149).png?raw=true">
+</p>
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
