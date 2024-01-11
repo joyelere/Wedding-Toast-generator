@@ -24,12 +24,11 @@ app.get('/', (req, res) => {
 });
 
 // Handle POST requests to the '/generate-toast' endpoint
-// Handle POST requests to the '/generate-toast' endpoint
 app.post('/generate-toast', async (req, res) => {
     try {
         const { brideName, groomName, relationship } = req.body;
 
-        // Set the word limit to 50
+        // Set the word limit
         const wordLimit = 185;
 
         // Add a prompt with the word limit
